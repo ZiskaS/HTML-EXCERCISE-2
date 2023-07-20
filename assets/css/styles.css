@@ -1,0 +1,128 @@
+/* Custom CSS for the WE LOVE DOGS website */
+
+/* Body and header styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #titulo {
+    margin-top: 20px;
+  }
+  
+  #subtitulo {
+    margin: 20px 0;
+  }
+  
+  /* Navigation bar styles */
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex; 
+  align-items: center; 
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 26px;
+    flex: 1; 
+    text-align: center;
+}
+  
+  /* Article and list styles */
+  article {
+    margin-bottom: 30px;
+  }
+  
+  ol {
+    margin-left: 20px;
+  }
+  
+  /* Image styles */
+  aside img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+  }
+  
+  /* Advertisement styles */
+  .anuncios {
+    margin-bottom: 20px;
+  }
+  
+  /* Recommended websites styles */
+  .paneles {
+    display: block;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .paneles:hover {
+    background-color: #ddd;
+  }
+  
+  /* Table styles */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f0f0f0;
+  }
+  
+  /* Newsletter form styles */
+  .form-example {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    width: 20%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Footer styles */
+  footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+  
